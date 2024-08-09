@@ -1,2 +1,1 @@
-# links-sortut
-html, css, js
+ to save time for find links
